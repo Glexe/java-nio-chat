@@ -1,3 +1,3 @@
 # java nio chat
  
-Assignment for one of the subjects at the university, not the best implementation so far
+Assignment for the university, not the best implementation so far
